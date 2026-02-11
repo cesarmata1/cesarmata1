@@ -20,7 +20,6 @@ Actualmente me estoy formando en el ámbito tecnológico y analítico, con un in
 - Java  
 - C#  
 - HTML / CSS  
-- Git & GitHub
 - SQL
 - Python
 
