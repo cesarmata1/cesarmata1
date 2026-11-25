@@ -48,4 +48,4 @@ Español y gallego (nativo) · Inglés **B2** (Oxford Test of English) · Franc�
 ---
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-mata-rodr%C3%ADguez) · ✉️ ccesarmata@gmail.com · 📄 [CV](https://github.com/cesarmata1/CV)
+[LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-mata-rodr%C3%ADguez-9803a0242) · ✉️ ccesarmata@gmail.com · 📄 [CV](https://github.com/cesarmata1/CV)
