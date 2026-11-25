@@ -1,7 +1,7 @@
 # 👋 Hola, soy César Mata Rodríguez
 
-🎓 Estudiante del **Máster Universitario en Ciencia de Datos e Inteligencia Artificial** en **CUNEF Universidad** (Madrid)
-💼 Próxima incorporación a **PwC** (departamento **GRC**) · TFM sobre **modelos de stress testing con macroeconomía sectorizada**
+🎓 Estudiante del **Máster Universitario en Ciencia de Datos e Inteligencia Artificial** en **CUNEF Universidad** (Madrid)  
+💼 Próxima incorporación a **PwC** (departamento **GRC**) · TFM sobre **modelos de stress testing con macroeconomía sectorizada**  
 🧭 Combino **rigor analítico y visión de negocio** en proyectos de gestión de riesgos, análisis de datos e IA.
 
 ---
@@ -30,9 +30,9 @@
 
 ## 🛠️ Tecnologías
 
-**Datos e IA:** Python · SQL · Power BI · Jupyter
-**Programación:** C / C++ · Java · C# · JavaScript · HTML/CSS
-**Frameworks:** Vue 3 · Quarkus · .NET MAUI · Node.js · Botpress
+**Datos e IA:** Python · SQL · Power BI · Jupyter  
+**Programación:** C / C++ · Java · C# · JavaScript · HTML/CSS  
+**Frameworks:** Vue 3 · Quarkus · .NET MAUI · Node.js · Botpress  
 **Cloud y DevOps:** Docker · Azure App Service · Azure DevOps Pipelines · GitHub Actions
 
 ## 🌍 Idiomas
